@@ -1,6 +1,6 @@
 # HMM programming exercise
 
-This is a programming exercise for the lecture **Introduction to Artificial Intelligence** (WS21/22) delivered at the  Department of Informatics, TUM. The introduced programming tasks are set up to help the students to familiarize with the Viterbi algorithm and N-Gram Models which are used for detecting part of speech tags and generating word sequences.
+This is a programming exercise for the lecture **Introduction to Artificial Intelligence** (WS21/22) delivered at the  Department of Informatics, TUM. The introduced programming tasks are set up to help the students to familiarize with the Viterbi algorithm in HMM.
 
 ### Works
 
