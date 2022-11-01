@@ -1,0 +1,14 @@
+__pycache__
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.pyc
+*.log
+*.out
+*.synctex.gz
+*.aux
+*.aux
+*.aux
+.vscode
+3_Twitterscrape/data/wordcloud/

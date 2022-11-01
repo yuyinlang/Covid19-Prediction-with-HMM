@@ -1,0 +1,17 @@
+numpy
+matplotlib
+scipy
+pandas
+geopandas==0.9.0
+branca
+folium
+ipykernel
+jupyter
+jupyter-client
+pytest
+pytest-cov
+docker-py
+timeout-decorator
+networkx
+ipywidgets
+pyproj==2.6.1
